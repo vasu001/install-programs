@@ -1,2 +1,4 @@
+https://stackoverflow.com/questions/7832892/how-to-change-the-default-gcc-compiler-in-ubuntu
+https://askubuntu.com/questions/914885/installing-gcc-7-and-newer-packages-in-ubuntu-16-04
 https://blog.jetbrains.com/clion/2018/01/clion-and-linux-toolchain-on-windows-are-now-friends/
 https://askubuntu.com/questions/355565/how-do-i-install-the-latest-version-of-cmake-from-the-command-line
